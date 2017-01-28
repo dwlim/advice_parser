@@ -17,6 +17,17 @@ Social Life
 	instagram
 	snapchat
 	twitter
+	anxious
+	anxiety
+	nervous
+	introvert
+	extrovert
+	frat
+	fraternity
+	sorority
+	chill
+	movie
+	
 
 Family
 	parents
