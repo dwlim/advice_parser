@@ -18,10 +18,9 @@ def determineCategory(arr, categories):
 		for cat in categories: 
 			#keys = difflib.get_close_matches(input, keywords[cat], 1)
 			for word in keywords[cat]:
-				if (word.find(input)):
+				if (word ==input):
 					# add boolean for noMatches
 					count[cat] += categories[cat][word]
-					break
 					
 			#if (len(keys) > 0):
 				#count[cat] += categories[cat][keys[0]]
@@ -42,7 +41,7 @@ def getJoke(arr, jokes, category):
 
 	for word in arr:
 		for key in dict:
-			if (key.find(word)):
+			if (key == word):
 				jokes = dict[key].split("~")
 				return random.choice(jokes)
 	
@@ -57,7 +56,7 @@ def main():
 	with open("category_terms.json") as jokes_file:
 		jokes = json.load(jokes_file)
 
-	words = tokenize("My family is so bad because I hate my brother")
+	words = tokenize("fat")
 	category = determineCategory(words, categories)
 	print(getJoke(words, jokes, category))
 
