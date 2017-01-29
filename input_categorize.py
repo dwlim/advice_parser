@@ -50,20 +50,6 @@ def getJoke(arr, jokes, category):
 	randomSubCat = dict[random.choice(list(dict.keys()))]
 	return random.choice(dict[randomSubCat].split("~"))
 
-
-
-
-	
-	# maxWeight = 0
-	# match = ""
-	# for cat in count:
-	# 	if count[cat] > maxWeight: 
-	# 		maxWeight = count[cat]
-	# 		match = cat
-
-	#return match
-
-
 def main():
 	with open("categories.json") as data_file: 
 		categories = json.load(data_file)
@@ -77,6 +63,3 @@ def main():
 
 if __name__ == '__main__':
 	main()
-
-
-
