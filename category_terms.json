@@ -130,11 +130,70 @@
 	"slippery": "I hope you slip...~Rain provides water for us, the very chemical we need to survive. Too bad it also provides the very same chemical to you too.",
 	"slushy": "I hope you slip...~Rain provides water for us, the very chemical we need to survive. Too bad it also provides the very same chemical to you too.",
 	"wet": "I hope you slip...~Rain provides water for us, the very chemical we need to survive. Too bad it also provides the very same chemical to you too.",
+},
 
+"Health":{
+		"fat": "Well with the way your mother turned out, its no surprise you can't fit through the garage door.~They didn't nominate you \"most likely to be a chunky disaster\" in highschool for no reason",
+		"skinny": "Cooking those noodle arms could feed a family 5 with extras for the next day's lunch.~I'm sorry, could you turn to face me so I can actually see you.",
+		"disease": "I didn't know being ugly was a terminal disease, or were you talking about something else.~With one look at your face, anyone could tell you had a disease, my condolences.",
+		"cut": "You should soak your cut in rubbing alcohol to sterilize it then burn it closed.~Remember kids, horizontal for attention and vertical for results",
+		"pain": "Stop beingn a little bitch holy shit you whine about everything.~Are you a dog toy because all I hear from you is -waaawaaaawaaaa-",
+		"bleed": "It's just a flesh wound.~I hope you got your tetanus vacine otherwise you won't be seeing me tomorrow",
+		"sti": "Finally something unique about your basic ass.~I warned you that beastiality had its risks",
+		"std": "Finally something unique about your basic ass.~I warned you that beastiality had its risks",
+		"herpes": "At least if your partner breaks up with you, you will have the herpes to remember them by.~On the bright side herpes has hit a dead end with you cause no one wants you.",
+		"obese": "Well with the way your mother turned out, its no surprise you can't fit through the garage door.~They didn't nominate you \"most likely to be a chunky disaster\" in highschool for no reason",
+		"anorexic": "Dam I didn't know a skeleton could interact with a computer",
+		"heavy": "Well with the way your mother turned out, its no surprise you can't fit through the garage door.~They didn't nominate you \"most likely to be a chunky disaster\" in highschool for no reason",
+		"thick": "Well with the way your mother turned out, its no surprise you can't fit through the garage door.~They didn't nominate you \"most likely to be a chunky disaster\" in highschool for no reason",
+		"munchies": "Your fatass can't afford to eat that bag of chips, put them down.",
+		"fever": "You finally get to experience what it is like to be hot.",
+		"barf": "Thats the best thing that has come out of you in a long time.",
+		"flu": "Dam you look sickkkkkkkkkk",
+		"cold": "Regardless of what I recommend you will be in your bed eating ice cream in 5 minutes anyways.",
+		"vomit": "Thats the best thing that has come out of you in a long time.",
+		"hungover": "Your head may hurt, but I assure you my head hurts more everytime you talk",
+		"drunk": "You should text your ex and say \"I love you\", what's the worst that could happen",
+		"alcohol": "Considering you can still talk, you definitely did not have enough alcohol.",
+		"cough": "Dam you look sickkkkkkkkkk",
+		"snack": "You should eat snacks. Who cares about healthy meals anyway.",
+		"junk": "Junk food isn't unhealthy when your bank balance is junk as well",
+		"drug": "Your dreams will only come true if you do drugs, but you will die.~Do drugs, kids.",
+		"over": "Greatness comes by over-doing things. So does failure.",
+		"medication": "Medication comes with side-effects",
+		"gym": "Your progress will eventually go away, so what's the point?~Gains are temporary, but pain is forever",
+		"vitamins": "Most vitamins are completely useless.",
 	
+
+"Technology":{
+	"broken": "Like your spirit, this is broken beyond repair, just sleep.~Broken is but an abstract state of mind, if you don't think it's broken, it ain't broken.",
+	"compile": "Like university, compiling is just going through the first barrier, there are still runtime errors, code inefficiencies, and incorrect inputs that can ruin your life.~Compiling is like getting things temporarily correct in life, but the next pebble you trip over will introduce an entirely different mess.",
+	"crash": "Your program crashing is a sign for you to do the same: get some sleep",
+	"computer": "As the representative of your computer speaking, I should tell you that you're using me completely wrong. Give up.~Seeing a nice computer is almost like meeting a very attractive potential mate at a bar, someone like you will never get it.",
+	"phone": "The very concept of a phone must bedazzle you, for only people who have friends find any use in it.",
+	"laptop": "It's interesting that you should never put your laptop on your lap top, just like your parents shouldn't have gotten your baby sitter to sit on the baby.", 
+	"iphone": "The very concept of a phone must bedazzle you, for only people who have friends find any use in it.",
+	"mac": "While I have no issue with you using a mac, you do understand why your heart opposes your 5 big macs a day diet, right?",
+	"android": "The very concept of a phone must bedazzle you, for only people who have friends find any use in it.",
+	"google": "We know biological mutations in the backward direction certainly exist when your parents can pass university with books alone and you're about to drop out despite having google.",
+	"browser": "The fact that your browser has spent more time on cat videos than differential equations probably adequately sums up every failure in your life.",
+	"robot": "Let's face it, the first thing you'd do with a robot is find a way to have sex with it, and even it would reject you.",
+	"keyboard": "Great writers use a keyboard to write amazing books. Amazing programmers use a keyboard to revolutionize the world. You are where you are because your keyboard sees most use in a porn search bar.",
+	"screen": "I highly recommend you keep your screen lit, if by chance it turns out and you see a reflection of your face, you might get a heart attack like I did 10 minutes ago.",
+	"photos": "I have uploaded all your recent photos to the cloud, for the sake of your friends and family's eyes, I have blurred out your face. You're welcome."
+},
+
+
+"Self":{
+	"sad": "Really no one cares if you're sad, get over it.~I'd tell you to pick yourself up and get over it, but if you don't, it really wouldn't make a difference to anyone.", 
+	"happy": "I hope your happiness is short-lived.~I don't know why you're telling me this, find your own friends...oh wait.",
+	"depressed": "Really no one cares if you're sad, get over it.~I'd tell you to pick yourself up and get over it, but if you don't, it really wouldn't make a difference to anyone.", 
+	"tired": "Just sleep, it's only logical.~You're only tired cause you're weak, I'd tell you to buck up, but we know you don't have that in you.",
+	"angry": "Stop being such a freaking drama queen.~I think it would be well-advised for you to make decisions and break friendships right about now.",
+	"anger": "Stop being such a freaking drama queen.~I think it would be well-advised for you to make decisions and break friendships right about now.",
 	
-	
-	
+	}
+}
 
 
 
