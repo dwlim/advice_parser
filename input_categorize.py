@@ -47,7 +47,7 @@ def getJoke(arr, jokes, category):
 	
 	#To be modified to general category. Need to change return of determineCategory
 	randomSubCat = dict[random.choice(list(dict.keys()))]
-	return random.choice(dict[randomSubCat].split("~"))
+	return random.choice(randomSubCat.split("~"))
 
 def main(input):
 	with open("categories.json") as data_file: 
