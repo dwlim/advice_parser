@@ -10,7 +10,7 @@
 	text-shadow: 1px 1px 5px #ffffff;
 	margin: 0 auto;
 	display: inline-block;
-	padding-top:7%;
+	padding-top:4%;
 	padding-bottom: 4%;
 }
 
@@ -20,22 +20,32 @@
 	text-align: center;
 }
 
+.speechbtn {
+	margin:0 auto;
+	text-align: center;
+	outline : none;
+}
 
+#micButton{
+	width:15ex;
+	height:auto;
+	outline : none;
+}
 
 .btn {
 	size: 10%;
 	border-radius: 50%;
 	background-color: transparent;
-	border: none;
 	outline: none;
+	border: none;
+	display: inline-block;
 }
 
-.speechbtn {
-	margin:0 auto;
-	text-align: center;
+button:focus {
+	outline:0;
 }
 
-.speechbtn img{
-	width:20%;
-	height:auto;
+button:active {
+	outline: none;
+	border: none;
 }
