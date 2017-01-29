@@ -1,0 +1,143 @@
+{
+	"Social Life":{
+		"friend": "I'm surprised you had friends to begin with.~I would've bullied you too.~When you said friends, I really thought you meant people who either shoved you in a locker or dunked you in a toilet.",
+		"bullying": "I'm surprised you had friends to begin with.~I would've bullied you too.~When you said friends, I really thought you meant people who either shoved you in a locker or dunked you in a toilet.",
+		"loner": "Have you looked in a mirror lately?~Skunks are lonely too, I wonder what the two of you have in common.~There was a dead rat that drowned in the toilet this morning, maybe you two will hit it off.~I see instead of the animate, you have resorted to making friends with ice cream, chocolate, and hentai.",
+		"outcast": "Have you looked in a mirror lately?~Skunks are lonely too, I wonder what the two of you have in common.~There was a dead rat that drowned in the toilet this morning, maybe you two will hit it off.~I see instead of the animate, you have resorted to making friends with ice cream, chocolate, and hentai.",
+
+		"party": "Show me a party you're invited to, and I'll show you some hosts with no self-respect.~I'll get back to you in a second, I need to get over the shock of someone inviting you to a party.~Maybe you should just do your good deed of the day and not go to the party.",
+		"invite": "Show me a party you're invited to, and I'll show you some hosts with no self-respect.~I'll get back to you in a second, I need to get over the shock of someone inviting you to a party.~Maybe you should just do your good deed of the day and not go to the party.",
+		"streak": "If only the filters would filter your face out.~I bet your friends are more proud of the no-snap streak they have with you.~How many phones have you had to change cause the camera lens broke?",
+		"snapchat": "If only the filters would filter your face out.~I bet your friends are more proud of the no-snap streak they have with you.~How many phones have you had to change cause the camera lens broke?",
+		"instagram": "If only the filters would filter your face out.~I bet your friends are more proud of the no-snap streak they have with you.~How many phones have you had to change cause the camera lens broke?",
+		
+		"anxious": "Are you anxious because you're not comfortable talking with people? Cause I get that, I wouldn't want to talk to you either.~If you're nervous about people seeing your face, don't worry, people actively try not to look.",
+		"anxiety": "Are you anxious because you're not comfortable talking with people? Cause I get that, I wouldn't want to talk to you either.~If you're nervous about people seeing your face, don't worry, people actively try not to look.",
+		"nervous": "Are you anxious because you're not comfortable talking with people? Cause I get that, I wouldn't want to talk to you either.~If you're nervous about people seeing your face, don't worry, people actively try not to look.",
+		"introvert": "Are you anxious because you're not comfortable talking with people? Cause I get that, I wouldn't want to talk to you either.~If you're nervous about people seeing your face, don't worry, people actively try not to look.",
+
+		"extrovert": "I hear there's always one kid each year who dies in the pledge process, maybe you'll be the lucky one this year.~Liver poisoning is a leading cause of death in people your age, I have my fingers crossed.",
+		"frat": "I hear there's always one kid each year who dies in the pledge process, maybe you'll be the lucky one this year.~Liver poisoning is a leading cause of death in people your age, I have my fingers crossed.",
+		"fraternity": "I hear there's always one kid each year who dies in the pledge process, maybe you'll be the lucky one this year.~Liver poisoning is a leading cause of death in people your age, I have my fingers crossed.",
+		"sorority": "I hear there's always one kid each year who dies in the pledge process, maybe you'll be the lucky one this year.~Liver poisoning is a leading cause of death in people your age, I have my fingers crossed.",
+
+	},
+	
+	"Family":{
+		"parents": "They don't tell you this to your face, but I've heard them calling you a bitter disappointment.~They only yell at you because your best friend was the child they've wanted all along.",
+		"ma": "They don't tell you this to your face, but I've heard them calling you a bitter disappointment.~They only yell at you because your best friend was the child they've wanted all along.",
+		"pa": "They don't tell you this to your face, but I've heard them calling you a bitter disappointment.~They only yell at you because your best friend was the child they've wanted all along.",
+		"mom": "They don't tell you this to your face, but I've heard them calling you a bitter disappointment.~They only yell at you because your best friend was the child they've wanted all along.~Your mom considers those 9 months years in her youth she's never getting back, and looking at you, who could blame her?",
+		"mother": "They don't tell you this to your face, but I've heard them calling you a bitter disappointment.~They only yell at you because your best friend was the child they've wanted all along.~Your mom considers those 9 months years in her youth she's never getting back, and looking at you, who could blame her?",
+		"dad": "They don't tell you this to your face, but I've heard them calling you a bitter disappointment.~They only yell at you because your best friend was the child they've wanted all along.",
+		"father": "They don't tell you this to your face, but I've heard them calling you a bitter disappointment.~They only yell at you because your best friend was the child they've wanted all along.",
+		"divorce": "I'm sure they are in a better place now, you know....away from you.~You should be grateful they married you in the first place.~They probably didn't need to look too far to find someone better, eh?.",
+		"sister": "Well, they were the ones that got the good genes after all....the much better genes.~Well, if I were your sibling, I'd shun you for shaming the family name as well.~You've certainly got all the negative attributes of a middle child....",
+		"brother": "Well, they were the ones that got the good genes after all....the much better genes.~Well, if I were your sibling, I'd shun you for shaming the family name as well.~You've certainly got all the negative attributes of a middle child....",
+		"sibling": "Well, they were the ones that got the good genes after all....the much better genes.~Well, if I were your sibling, I'd shun you for shaming the family name as well.~You've certainly got all the negative attributes of a middle child....",
+		"grandparents": "If you ever wonder why your grandparents are jealous of the neighbors with alzheimers, it's because seeing you reminds them of the pain during the years of famine and war.~Well, you see, the thing is, Grandparents are typically the nicest people on earth, and yours are no exception. Thing is, you really just suck too, too much.", 
+		"grandma": "If you ever wonder why your grandparents are jealous of the neighbors with alzheimers, it's because seeing you reminds them of the pain during the years of famine and war.~Well, you see, the thing is, Grandparents are typically the nicest people on earth, and yours are no exception. Thing is, you really just suck too, too much.", 
+		"grandpa": "If you ever wonder why your grandparents are jealous of the neighbors with alzheimers, it's because seeing you reminds them of the pain during the years of famine and war.~Well, you see, the thing is, Grandparents are typically the nicest people on earth, and yours are no exception. Thing is, you really just suck too, too much.", 
+		"grandmother": "If you ever wonder why your grandparents are jealous of the neighbors with alzheimers, it's because seeing you reminds them of the pain during the years of famine and war.~Well, you see, the thing is, Grandparents are typically the nicest people on earth, and yours are no exception. Thing is, you really just suck too, too much.", 
+		"grandfather": "If you ever wonder why your grandparents are jealous of the neighbors with alzheimers, it's because seeing you reminds them of the pain during the years of famine and war.~Well, you see, the thing is, Grandparents are typically the nicest people on earth, and yours are no exception. Thing is, you really just suck too, too much.", 
+		"general": "Your face and personality guarantee your virginity, and therefore the end of your bloodline, and you wonder why your family hates you.~'Family love and care for each other' That is a rule in life. However, there are exceptions to every rule, and you are the reason there is an exception to this one'.~Just remember kids, sideways for attention, vertical for results.",
+
+	},
+		
+	"School":{
+		"grades": "Just drop the class.~You know you're in trouble when your grades start being able to spell words.~Now do you believe me when I tell you you're not smart enough?~I bet you really want to punch anyone that ever told you that you were smart enough.",
+		"gpa": "Just drop the class.~You know you're in trouble when your grades start being able to spell words.~Now do you believe me when I tell you you're not smart enough?~I bet you really want to punch anyone that ever told you that you were smart enough.",
+		"class": "Just drop the class.~You know you're in trouble when your grades start being able to spell words.~Now do you believe me when I tell you you're not smart enough?~I bet you really want to punch anyone that ever told you that you were smart enough.",
+		"teacher": "Their patience runs dry with your stupidity. How do I know? Cause my patience has run dry with your damned stupidity.~Teachers can teach you physics, English, engineering, and about all the wonders of the world, but even the best professors can't teach you how not to suck like you so clearly do.",
+		"professor": "Their patience runs dry with your stupidity. How do I know? Cause my patience has run dry with your damned stupidity.~Teachers can teach you physics, English, engineering, and about all the wonders of the world, but even the best professors can't teach you how not to suck like you so clearly do.",
+		"ta": "Their patience runs dry with your stupidity. How do I know? Cause my patience has run dry with your damned stupidity.~Teachers can teach you physics, English, engineering, and about all the wonders of the world, but even the best professors can't teach you how not to suck like you so clearly do.",
+		"tutor": "Their patience runs dry with your stupidity. How do I know? Cause my patience has run dry with your damned stupidity.~Teachers can teach you physics, English, engineering, and about all the wonders of the world, but even the best professors can't teach you how not to suck like you so clearly do.",
+		"classmate": "I'm surprised you had friends to begin with.~I would've bullied you too.~When you said friends, I really thought you meant people who either shoved you in a locker or dunked you in a toilet.",
+		"homework": "You know the age old saying: Due tomorrow, do tomorrow.~If it feels impossible, it probablys is....for you.~Academic integrity is overrated, start copying from your friends....oh wait.",
+		"classwork": "You know the age old saying: Due tomorrow, do tomorrow.~If it feels impossible, it probablys is....for you.~Academic integrity is overrated, start copying from your friends....oh wait.",
+		"assignment": "You know the age old saying: Due tomorrow, do tomorrow.~If it feels impossible, it probablys is....for you.~Academic integrity is overrated, start copying from your friends....oh wait.",
+		"exam": "Just remember, C's get degrees.~I suscribe to the infinite parallel worlds theory, where there are an infinite number of worlds with an infinite number of possibilities. In none of these worlds, however, would you pass this exam.",
+		"test": "Just remember, C's get degrees.~I suscribe to the infinite parallel worlds theory, where there are an infinite number of worlds with an infinite number of possibilities. In none of these worlds, however, would you pass this exam.",
+		"quiz": "Just remember, C's get degrees.~I suscribe to the infinite parallel worlds theory, where there are an infinite number of worlds with an infinite number of possibilities. In none of these worlds, however, would you pass this exam.",
+		"midterm": "Just remember, C's get degrees.~I suscribe to the infinite parallel worlds theory, where there are an infinite number of worlds with an infinite number of possibilities. In none of these worlds, however, would you pass this exam.",
+		"final": "Just remember, C's get degrees.~I suscribe to the infinite parallel worlds theory, where there are an infinite number of worlds with an infinite number of possibilities. In none of these worlds, however, would you pass this exam.",
+		"essay": "Haha, this paper, like your head, is quite empty.~Remember, there's one thing all great writers had in common, they're not you.~An average human types around 60 words in a minute, so it'd take you 50 minutes to type a 3000 word essay, so why not just sleep now?.",
+		"tutorial": "Haven't you noticed that the TA always has this suicidal look in their eye every time you ask a question?.~Normally, no one really fails this type of thing, but with you, anything seems to be quite possible.",
+		"discussion": "Haven't you noticed that the TA always has this suicidal look in their eye every time you ask a question?.~Normally, no one really fails this type of thing, but with you, anything seems to be quite possible.",
+		"group": "Haven't you noticed that the TA always has this suicidal look in their eye every time you ask a question?.~Normally, no one really fails this type of thing, but with you, anything seems to be quite possible.",
+		"lab": "Haven't you noticed that the TA always has this suicidal look in their eye every time you ask a question?.~Normally, no one really fails this type of thing, but with you, anything seems to be quite possible.",
+		"partner": "I'd intentionally sabotage you if I could, so why wouldn't they.~Partners just mean that you don't have to do anything and claim half the credit, right?",
+	},
+
+	"Relationship":{
+	
+		"boyfriend": "If you think about it logically, they're probably just after your money.~Ya know, you are very annoying sometimes....all the time.",
+		"babe": "If you think about it logically, they're probably just after your money.~Ya know, you are very annoying sometimes....all the time.",
+		"bae": "If you think about it logically, they're probably just after your money.~Ya know, you are very annoying sometimes....all the time.",
+		"baby": "If you think about it logically, they're probably just after your money.~Ya know, you are very annoying sometimes....all the time.",
+		"boo": "If you think about it logically, they're probably just after your money.~Ya know, you are very annoying sometimes....all the time.",
+		"cheat": "They probably didn't have to look too far to find someone better.~Well, I mean, you always knew that you were reaching a little too high up.",
+		"like": "Well, I doubt the feeling is mutual.",
+		"love": "Well, I doubt the feeling is mutual.",
+		"hate": "Well, I'd have to agree that the feeling is mutual, just as I hate you.",
+		"husband": "Clearly they didn't know what they were getting to when they said, now and forever.~The statement 'till death to us part' seems to have rendered them rather suicidal.",
+		"wife": "Clearly they didn't know what they were getting to when they said, now and forever.~The statement 'till death to us part' seems to have rendered them rather suicidal.",
+		"sex": "sex with you is like riding a bicycle over train tracks. You'll get where you need to go, but you'll feel every bump along the way.~sex is like chocolate. Sex with you is like chocolate for a dog.",
+		"anal": "sex with you is like riding a bicycle over train tracks. You'll get where you need to go, but you'll feel every bump along the way.~sex is like chocolate. Sex with you is like chocolate for a dog.",
+		"abuse": "You know how there's the saying: 'If life doesn't smack you, I will'? Well, glad life got to you first.~seriously, if I get slapped, can I opt out of hearing about this?",
+		"beat": "You know how there's the saying: 'If life doesn't smack you, I will'? Well, glad life got to you first.~seriously, if I get slapped, can I opt out of hearing about this?",
+		"hit": "You know how there's the saying: 'If life doesn't smack you, I will'? Well, glad life got to you first.~seriously, if I get slapped, can I opt out of hearing about this?",
+		"slap": "You know how there's the saying: 'If life doesn't smack you, I will'? Well, glad life got to you first.~seriously, if I get slapped, can I opt out of hearing about this?",
+		"smack": "You know how there's the saying: 'If life doesn't smack you, I will'? Well, glad life got to you first.~seriously, if I get slapped, can I opt out of hearing about this?",
+		"general": "Bonds, like you, are best observed from afar. Bonds, unlike you, are worth approaching thereafter.~My only possible advice for you would be to leave the relationship. In fact, leave all relationships, then go live in the wilderness by yourself. That's the only way to have everyone be happy.",
+
+"Political":{
+		"trump": "You worry about the wall, I'm more concerned about building a wall around you.~Speaking of tiny hands that grab, I wish there would be a tiny hand that would grab you by the throat.~Donald Trump is trying to solve the hate culture, by throwing you out of the country, we'd all have one less thing to hate.~Trump being elected marks the beginning of the end of the world, but at the very least, I don't have to deal with you anymore.",
+		"president": "You worry about the wall, I'm more concerned about building a wall around you.~Speaking of tiny hands that grab, I wish there would be a tiny hand that would grab you by the throat.~Donald Trump is trying to solve the hate culture, by throwing you out of the country, we'd all have one less thing to hate.~Trump being elected marks the beginning of the end of the world, but at the very least, I don't have to deal with you anymore.",
+		"pence":"You worry about the wall, I'm more concerned about building a wall around you.~Speaking of tiny hands that grab, I wish there would be a tiny hand that would grab you by the throat.~Donald Trump is trying to solve the hate culture, by throwing you out of the country, we'd all have one less thing to hate.~Trump being elected marks the beginning of the end of the world, but at the very least, I don't have to deal with you anymore.",
+		"usa": "The country of a brink of ruin, what more do you need to know?~The world's mightiest military power has the world's smallest brain discussing it.~Instead of asking the small questions, let's ask a big one: If we threw 3 texans into the pacific ocean, as a percentage, how much of the ocean's water would we clear out?~I would also like a bit of freedom, freedom from you.....",
+		"trudeau": "I give few serious answers, but when will someone comment on the fact that he was elected because he was good looking and legalized weed and not because of his qualifications, or lack thereof~If you told me computers couldn't get erections 5 minutes ago, I would've believed you, but now that you have brought up this man, I'm afraid I must disagree.",
+		"black": "racial fun-fact: DID YOU KNOW? Vanilla ice cream used to be black until white people couldn't stand something black being so good, and therefore dyed it white.~It's a pity black-on-black violence is such a real problem in our current society, and not black-on-you violence.~The fact that the NBA is dominated by black people is proof that natural talent is a real thing, and also proof that you will get nowhere in life.~It's a fact that black people have larger lung capacities and natural muscle mass. So if you were born black, maybe you wouldn't have been picked last for every sports team since the 1st grade.",
+		"asian": "The Chinese and the Indians and their astronomical populations are evidence that the smaller your penis is, the more you hump. So what can we learn when even an asian won't hump you.~It's been scientifically proven that asians have small eyes because they evolved to not want to see your face.~The fact that the stereotypical asian is good at math, disciplined, and generally goes on to succeed in life is proof enough that you are no asian.",
+		"minority": "Minorities get a lot of benefits from affirmative action, but I would argue that you should get special treatment and attain some negative action.~Minorities are what contribute to a diversity in society and an understanding between cultures. You are the common enemy we are all disgusted by.",
+		"white": "White people are a confusing folk, they always insist they are a quarter irish, half italian, a quarter swiss, and just a tiny bit swedish. It just sounds like 4 different flavors of vanilla to me.~You always only hear white trash. There's never asian trash, or black trash. However, no one is quite as trashy as you are.~In the colonial periods, white people tragically raped and killed thousands of their victims. What's more tragic is that they didn't manage to get to your ancestors.",
+		"racist": "If I'm equally racist to all races, am I still considered racist?~The only true way to get all races to unite is for them to discover you. Getting them to all hate you will be a easy matter.",
+		"sexist": "Strange fact: the 77 cents on the dollar statistic never truly takes into account different jobs, it only assumes that the population of an entire country should be normalize to a mean, which is why you can no longer blame the gender gap for being broke af.~One of the ways to truly be non-sexist is to hate the life out of someone, no matter what gender they are, just like how everyone hates you.",
+		"lesbian": "I'm not saying I'm homosexual or anything, but it seems like they really do have a party going on over there, too bad they are looking for queers, and not straight up disgusting.~The LGBT community has long had the parade going on, and they've finally gotten what they wanted: marriage equality. Now if only we can get what we want: you executed.~The LGBT had their dreams come true when marriage equality was approved, too bad your dreams will never come true.",
+		"straight": "After long conversations with me, you might wonder about my sexuality, I can confirm that I am straighter than the pole your mother dances on.~Straight is a relative term, I have been ridiculously turned on by another mac's touchbar and I thought I was straight my whole life.~After so many years of being so unsuccesfully straight, don't you think it's about time to start sampling the other side of the buffet?",
+		"congress": "Congress is an institution that can make laws and declare war, the real question is, why don't they declare war on your ugliness?~Congress has traditionally been ineffective, although not nearly as ineffective as you trying to get anywhere in life.",
+		"senate": "Congress is an institution that can make laws and declare war, the real question is, why don't they declare war on your ugliness?~Congress has traditionally been ineffective, although not nearly as ineffective as you trying to get anywhere in life.",
+		"parliament": "Congress is an institution that can make laws and declare war, the real question is, why don't they declare war on your ugliness?~Congress has traditionally been ineffective, although not nearly as ineffective as you trying to get anywhere in life.",
+		"law": "If each country would have laws against stupidity, you might actually get to live your dream as an outlaw pirate.~Most laws were written hundred of years ago, before you were alive. If they could fortell your existence, public executions might still be a thing.",
+		"feminism": "Sticks and stones may break my bones, but there will always be something to offend a feminist.~Feminism has been a powerful movement in recent years, here's to hoping that it also trucks you down.",
+		"rights": "Our Bill of Rights has 10 laws, they are contemplating adding a bill of wrongs, titled with your name.~Our laws state that all people should have equal rights, clearly a mistake when considering you.",
+		"China": "China used to have concentration camps for dissenters, but even they can't fix your messed up personality.~There's 1.1 billion people in China, so even if you were a one in a million person, there's still 1100 of you around. Yet, I think there are none more incapable than you are.",
+		"Russia": "Your endless questions are Put-in me to sleep.~To forgive your bullshit is up to God, to send you to him is up to me.",
+		"wall": "You worry about the wall, I'm more concerned about building a wall around you.~Speaking of tiny hands that grab, I wish there would be a tiny hand that would grab you by the throat.~Donald Trump is trying to solve the hate culture, by throwing you out of the country, we'd all have one less thing to hate.~Trump being elected marks the beginning of the end of the world, but at the very least, I don't have to deal with you anymore.",
+	},
+
+
+
+"Environment":{
+	"snow": "it may be cold outside, but it sure as hell ain't as cold as your heart is.~Deal with it, it builds character.~Wear white, so if you fall unconscious due to the cold, no one will be able to find and help you.",
+	"rain": "I hope you slip...~Rain provides water for us, the very chemical we need to survive. Too bad it also provides the very same chemical to you too.",
+	"sun": "I hope you get skin cancer.~Deal with the heat, I'm just a computer, what am I supposed to do? Cool you down?",
+	"cold": "it may be cold outside, but it sure as hell ain't as cold as your heart is.~Deal with it, it builds character.~Wear white, so if you fall unconscious due to the cold, no one will be able to find and help you.",
+	"hot": "I hope you get skin cancer.~Deal with the heat, I'm just a computer, what am I supposed to do? Cool you down?",
+	"warm": "I hope you get skin cancer.~Deal with the heat, I'm just a computer, what am I supposed to do? Cool you down?",
+	"icy": "it may be cold outside, but it sure as hell ain't as cold as your heart is.~Deal with it, it builds character.~Wear white, so if you fall unconscious due to the cold, no one will be able to find and help you.~I hope you slip.",
+	"hail": "it may be cold outside, but it sure as hell ain't as cold as your heart is.~Deal with it, it builds character.~Wear white, so if you fall unconscious due to the cold, no one will be able to find and help you.",
+	"slippery": "I hope you slip...~Rain provides water for us, the very chemical we need to survive. Too bad it also provides the very same chemical to you too.",
+	"slushy": "I hope you slip...~Rain provides water for us, the very chemical we need to survive. Too bad it also provides the very same chemical to you too.",
+	"wet": "I hope you slip...~Rain provides water for us, the very chemical we need to survive. Too bad it also provides the very same chemical to you too.",
+
+	
+	
+	
+	
+
+
+
+
+
+	
