@@ -72,7 +72,7 @@ def main():
 		jokes = json.load(jokes_file)
 
 	words = tokenize("My family is so bad because I hate my brother")
-	category = determineCategory(arr, categories)
+	category = determineCategory(words, categories)
 	print(getJoke(words, jokes, category))
 
 if __name__ == '__main__':
