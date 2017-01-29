@@ -2,6 +2,7 @@
 
 import json
 import difflib
+import operator
 
 def tokenize(str):
 	str = str.lower()
@@ -20,7 +21,9 @@ def determineCategory(arr, category):
 		for cat in category: 
 			keys = difflib.get_close_matches(input, keywords[cat], 1)
 			if (len(keys) > 0):
-				
+				count[cat] += category[cat][keys[0]]
+
+	return max(count.iteritems(), key=operator.itemgetter(1))[0]
 
 
 
