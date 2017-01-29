@@ -89,7 +89,8 @@
 		"hit": "You know how there's the saying: 'If life doesn't smack you, I will'? Well, glad life got to you first.~seriously, if I get slapped, can I opt out of hearing about this?",
 		"slap": "You know how there's the saying: 'If life doesn't smack you, I will'? Well, glad life got to you first.~seriously, if I get slapped, can I opt out of hearing about this?",
 		"smack": "You know how there's the saying: 'If life doesn't smack you, I will'? Well, glad life got to you first.~seriously, if I get slapped, can I opt out of hearing about this?",
-		"general": "Bonds, like you, are best observed from afar. Bonds, unlike you, are worth approaching thereafter.~My only possible advice for you would be to leave the relationship. In fact, leave all relationships, then go live in the wilderness by yourself. That's the only way to have everyone be happy.",
+		"general": "Bonds, like you, are best observed from afar. Bonds, unlike you, are worth approaching thereafter.~My only possible advice for you would be to leave the relationship. In fact, leave all relationships, then go live in the wilderness by yourself. That's the only way to have everyone be happy."
+	},
 
 "Political":{
 		"trump": "You worry about the wall, I'm more concerned about building a wall around you.~Speaking of tiny hands that grab, I wish there would be a tiny hand that would grab you by the throat.~Donald Trump is trying to solve the hate culture, by throwing you out of the country, we'd all have one less thing to hate.~Trump being elected marks the beginning of the end of the world, but at the very least, I don't have to deal with you anymore.",
@@ -162,7 +163,8 @@
 		"over": "Greatness comes by over-doing things. So does failure.",
 		"medication": "Medication comes with side-effects",
 		"gym": "Your progress will eventually go away, so what's the point?~Gains are temporary, but pain is forever",
-		"vitamins": "Most vitamins are completely useless.",
+		"vitamins": "Most vitamins are completely useless."
+	},
 	
 
 "Technology":{
