@@ -44,7 +44,11 @@ Social Life
 		-> "Liver poisoning is a leading cause of death in people your age, I have my fingers crossed"
 	chill
 	movie
+<<<<<<< HEAD
 	
+=======
+
+>>>>>>> 23aa00e28582b4f673b33ffa28a30cb983b24730
 Family
 	parents
 	ma
