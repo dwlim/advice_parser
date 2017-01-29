@@ -1,0 +1,218 @@
+Social Life
+	friend
+	bullying
+	making fun
+	poking
+	no friends
+	loner
+	lonely
+	party
+	outcast
+	invite
+	streak
+	block
+	spam
+	meme
+	facebook
+	instagram
+	snapchat
+	twitter
+	anxious
+	anxiety
+	nervous
+	introvert
+	extrovert
+	frat
+	fraternity
+	sorority
+	chill
+	movie
+	
+
+Family
+	parents
+	drama
+	divorce
+	mom
+	mother
+	dad
+	father
+	sister
+	brother
+	sibling
+	cousin
+	aunt
+	uncle
+	grandparents
+	grandma
+	grandpa
+	grandmother
+	grandfather
+
+School
+	grades
+	teacher
+	class
+	classmate
+	professor
+	gpa
+	ta
+	homework
+	classwork
+	assignment
+	tutor
+	exam
+	test
+	quiz
+	midterm
+	final
+	essay
+	tutorial
+	discussion
+	group
+	lab
+	partner
+	schedule
+	dpm
+
+Relationship
+	boyfriend
+	girlfriend
+	babe
+	bae
+	baby
+	boo
+	cheat
+	like
+	love
+	hate
+	mistress
+	husband
+	wife
+	sex
+	anal
+	abuse
+	beat
+	hit
+	slap
+	smack
+
+Political
+	trump
+	clinton
+	president
+	usa
+	pence
+	trudeau
+	black
+	asian
+	minority
+	white
+	racist
+	sexist
+	lesbian
+	gay
+	bisexual
+	straight
+	transgender
+	lgbt
+	congress
+	senate
+	law
+	parliament
+	feminism
+	rights
+	protest
+	equal
+	china
+	russia
+	wall
+	mexico
+
+Health
+	fat
+	skinny
+	disease
+	cut
+	pain
+	bleed
+	sti
+	std
+	herpes
+	obese
+	anorexic
+	heavy
+	thick
+	munchies
+	fever
+	throw up
+	barf
+	flu
+	cold
+	vomit
+	hungover
+	drunk
+	alchol
+	weed
+	cough
+	snack
+	junk
+	drug
+	over
+	medication
+	herbs
+	supplements
+	gym
+	vitamins
+
+Environment
+	snow
+	rain
+	sun
+	cold
+	hot
+	warm
+	icy
+	cloudy
+	sunny
+	hail
+	slippery
+	slushy
+	gross
+	dark
+	bright
+	wet
+	boots
+	shoes
+	jacket
+	melt
+
+Technology
+	broken
+	compile
+	turn on
+	crash
+	computer
+	phone
+	laptop
+	iphone
+	mac
+	android
+	linux
+	google
+	browser
+	email
+	robot
+	keyboard
+	screen
+	photos
+
+Self
+	sad
+	happy
+	depressed
+	tired
+	suicide
+	angry
+	anger
+	

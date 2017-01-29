@@ -1,0 +1,286 @@
+Social Life
+	friend
+		bullying
+		making fun
+			-> "I'm surprised you had friends to begin with"
+			-> "I would've bullied you too"
+			-> "When you said friends, I really thought you meant people who either shoved you in a locker or dunked you in a toilet."
+
+	loner
+	lonely
+	outcast
+		-> "Have you looked in a mirror lately?"
+		-> "Skunks are lonely too, I wonder what the two of you have in common"
+		-> "There was a dead rat that drowned in the toilet this morning, maybe you two will hit it off"
+		-> "I see instead of the animate, you have resorted to making friends with ice cream, chocolate, and hentai"
+	party
+	invite
+		-> "Show me a party you're invited to, and I'll show you some hosts with no self-respect"
+		-> "I'll get back to you in a second, I need to get over the shock of someone inviting you to a party"
+		-> "Maybe you should just do your good deed of the day and not go to the party"
+		streak
+		snapchat
+		instagram
+			-> "If only the filters would filter your face out"
+			-> "I bet your friends are more proud of the no-snap streak they have with you"
+			-> "How many phones have you had to change cause the camera lens broke?"
+	block
+	spam
+	meme
+	facebook
+	twitter
+
+	anxious
+	anxiety
+	nervous
+	introvert 
+		-> "Are you anxious because you're not comfortable talking with people? Cause I get that, I wouldn't want to talk to you either"
+		-> "If you're nervous about people seeing your face, don't worry, people actively try not to look"
+	extrovert
+	frat
+	fraternity
+	sorority
+		-> "I hear there's always one kid each year who dies in the pledge process, maybe you'll be the lucky one this year"
+		-> "Liver poisoning is a leading cause of death in people your age, I have my fingers crossed"
+	chill
+	movie
+<<<<<<< HEAD
+	
+=======
+
+>>>>>>> 23aa00e28582b4f673b33ffa28a30cb983b24730
+Family
+	parents
+	ma
+	pa
+	mom	-> -> "Your mom considers those 9 months years in her youth she's never getting back, and looking at you, who could blame her?"
+	mother
+	dad
+	father
+		-> "They don't tell you this to your face, but I've heard them calling you a bitter disappointment"
+		-> "They only yell at you because your best friend was the child they've wanted all along"
+	divorce
+		-> "I'm sure they are in a better place now, you know....away from you"
+		-> "You should be grateful they married you in the first place" 
+		-> "They probably didn't need to look too far to find someone better, eh?"
+	sister
+	brother
+	sibling
+		-> "Well, they were the ones that got the good genes after all....the much better genes" 
+		-> "Well, if I were your sibling, I'd shun you for shaming the family name as well"
+		-> "You've certainly got all the negative attributes of a middle child...."
+	grandparents
+	grandma
+	grandpa
+	grandmother
+	grandfather
+		-> "If you ever wonder why your grandparents are jealous of the neighbors with alzheimers, it's because seeing you reminds them of the pain during the years of famine and war."
+		-> "Well, you see, the thing is, Grandparents are typically the nicest people on earth, and yours are no exception. Thing is, you really just suck too, too much"
+
+	-> "Your face and personality guarantee your virginity, and therefore the end of your bloodline, and you wonder why your family hates you"
+	-> " 'Family love and care for each other' That is a rule in life. However, there are exceptions to every rule, and you are the reason there is an exception to this one'"
+	-> "Just remember kids, sideways for attention, vertical for results"
+School
+	grades
+	gpa
+	class
+		-> "Just drop the class"
+		-> "You know you're in trouble when your grades start being able to spell words"
+		-> "Now do you believe me when I tell you you're not smart enough?"
+		-> "I bet you really want to punch anyone that ever told you that you were smart enough"
+	teacher
+	professor
+	ta
+	tutor
+		-> "Their patience runs dry with your stupidity. How do I know? Cause my patience has run dry with your damned stupidity"
+		-> "Teachers can teach you physics, English, engineering, and about all the wonders of the world, but even the best professors can't teach you how not to suck like you so clearly do"
+	
+	classmate -> link back to friends
+	homework
+	classwork
+	assignment
+		-> "You know the age old saying: Due tomorrow, do tomorrow"
+		-> "If it feels impossible, it probablys is....for you"
+		-> "Academic integrity is overrated, start copying from your friends....oh wait"
+	exam
+	test
+	quiz
+	midterm
+	final
+		-> "Just remember, C's get degrees"
+		-> "I suscribe to the infinite parallel worlds theory, where there are an infinite number of worlds with an infinite number of possibilities. In none of these worlds, however, would you pass this exam"
+	essay
+		-> "Haha, this paper, like your head, is quite empty"
+		-> "Remember, there's one thing all great writers had in common, they're not you"
+		-> "An average human types around 60 words in a minute, so it'd take you 50 minutes to type a 3000 word essay, so why not just sleep now?"
+	tutorial
+	discussion
+	group
+	lab
+		-> "Haven't you noticed that the TA always has this suicidal look in their eye every time you ask a question?"
+		-> "Normally, no one really fails this type of thing, but with you, anything seems to be quite possible"
+	partner
+		-> "I'd intentionally sabotage you if I could, so why wouldn't they"
+		-> "Partners just mean that you don't have to do anything and claim half the credit, right?"
+	schedule
+	dpm
+
+Relationship
+	boyfriend
+	girlfriend
+	babe
+	bae
+	baby
+	boo
+		-> "If you think about it logically, they're probably just after your money"
+		-> "Ya know, you are very annoying sometimes....all the time"
+	cheat
+		-> "They probably didn't have to look too far to find someone better"
+		-> "Well, I mean, you always knew that you were reaching a little too high up"
+	like
+	love
+		-> "Well, I doubt the feeling is mutual
+	hate
+		-> "Well, I'd have to agree that the feeling is mutual, just as I hate you"
+	husband
+	wife
+		-> "Clearly they didn't know what they were getting to when they said, now and forever"
+		-> "The statement 'till death to us part' has rendered them rather suicidal"
+	sex
+	anal 
+		-> "sex with you is like riding a bicycle over train tracks. You'll get where you need to go, but you'll feel every bump along the way"
+		-> "sex is like chocolate. Sex with you is like chocolate for a dog." 
+	abuse
+	beat
+	hit
+	slap
+	smack
+		-> "You know how there's the saying: 'If life doesn't smack you, I will'? Well, glad life got to you first"
+		-> "seriously, if I get slapped, can I opt out of hearing about this?"
+
+	-> "Bonds, like you, are best observed from afar. Bonds, unlike you, are worth approaching thereafter"
+	-> "My only possible advice for you would be to leave the relationship. In fact, leave all relationships, then go live in the wilderness by yourself. That's the only way to have everyone be happy. 
+
+Political
+	trump
+	president
+		-> "You worry about the wall, I'm more concerned about building a wall around you."
+		-> "Speaking of tiny hands that grab, I wish there would be a tiny hand that would grab you by the throat"
+		-> "Donald Trump is trying to solve the hate culture, by throwing you out of the country, we'd all have one less thing to hate"
+	clinton
+		->
+	usa
+	pence
+	trudeau
+	black
+	asian
+	minority
+	white
+	racist
+	sexist
+	lesbian
+	gay
+	bisexual
+	straight
+	transgender
+	lgbt
+	congress
+	senate
+	law
+	parliament
+	feminism
+	rights
+	protest
+	equal
+	china
+	russia
+	wall
+	mexico
+
+Health
+	fat
+	skinny
+	disease
+	cut
+	pain
+	bleed
+	sti
+	std
+	herpes
+	obese
+	anorexic
+	heavy
+	thick
+	munchies
+	fever
+	throw up
+	barf
+	flu
+	cold
+	vomit
+	hungover
+	drunk
+	alchol
+	weed
+	cough
+	snack
+	junk
+	drug
+	over
+	medication
+	herbs
+	supplements
+	gym
+	vitamins
+
+Environment
+	snow
+	rain
+	sun
+	cold
+	hot
+	warm
+	icy
+	cloudy
+	sunny
+	hail
+	slippery
+	slushy
+	gross
+	dark
+	bright
+	wet
+	boots
+	shoes
+	jacket
+	melt
+
+Technology
+	broken
+	compile
+	turn on
+	crash
+	computer
+	phone
+	laptop
+	iphone
+	mac
+	android
+	linux
+	google
+	browser
+	email
+	robot
+	keyboard
+	screen
+	photos
+
+Self
+	sad
+	happy
+	depressed
+	tired
+	suicide
+	angry
+	anger
+	
