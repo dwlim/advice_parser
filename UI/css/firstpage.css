@@ -23,6 +23,7 @@
 
 
 .btn {
+	size: 10%;
 	border-radius: 50%;
 	background-color: transparent;
 	border: none;
@@ -32,4 +33,9 @@
 .speechbtn {
 	margin:0 auto;
 	text-align: center;
+}
+
+.speechbtn img{
+	width:20%;
+	height:auto;
 }
