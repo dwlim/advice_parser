@@ -49,16 +49,16 @@ def getJoke(arr, jokes, category):
 	randomSubCat = dict[random.choice(list(dict.keys()))]
 	return random.choice(dict[randomSubCat].split("~"))
 
-def main():
+def main(input):
 	with open("categories.json") as data_file: 
 		categories = json.load(data_file)
 
 	with open("category_terms.json") as jokes_file:
 		jokes = json.load(jokes_file)
 
-	words = tokenize("fat")
+	words = tokenize(input)
 	category = determineCategory(words, categories)
-	print(getJoke(words, jokes, category))
+	return getJoke(words, jokes, category)
 
-if __name__ == '__main__':
-	main()
+# if __name__ == '__main__':
+# 	main()

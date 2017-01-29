@@ -1,10 +1,13 @@
-from flask import Flask, render_template, request, url_for
+from flask_cors import CORS
+from flask import render_template, request, jsonify
 from app import app
-import subprocess
 import input_categorize
 
-@app.route('/generateResponse', methods=['POST'])
+CORS(app)
+
+@app.route('/index', methods=["POST"])
 def index():
-	resp = flask.Response("Foo bar baz")
-	resp.headers['Access-Control-Allow-Origin'] = '*'
-	return resp
+	data = request.form.to_dict()
+	print(data)
+	temp = input_categorize.main(data['param'])
+	return jsonify(temp)

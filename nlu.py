@@ -12,7 +12,7 @@ import os
 import pprint
 import sys
 import urllib.parse
-import sample
+import input_categorize
 
 import aiohttp
 from aiohttp import _ws_impl as websocket
@@ -368,7 +368,10 @@ def understand_audio(loop, url, app_id, app_key, user_id, context_tag=None, lang
         if msg['message'] == 'query_end':
             break
         else:
-            sample.handle_response(msg)
+            try:
+                input_categorize.main(msg['transcriptions'][0])
+            except KeyError:
+                pass
 
         receivetask = asyncio.async(client.receive())
 
@@ -628,28 +631,28 @@ def main():
                         help='User the transaction is being executed on behalf of')
 
     # Add four subcommands: `audio`, `text` and `data_upload`, and `data_wipe`
-    subparsers = parser.add_subparsers(dest='command', title='commands')
-    subparsers.required = True
+    # subparsers = parser.add_subparsers(dest='command', title='commands')
+    # subparsers.required = True
 
-    # Audio NLU
-    parser_audio = subparsers.add_parser('audio', help='Execute NLU transaction from audio acquired from your microphone')
+    # # Audio NLU
+    # parser_audio = subparsers.add_parser('audio', help='Execute NLU transaction from audio acquired from your microphone')
 
-    # Text NLU
-    parser_text = subparsers.add_parser('text', help='Execute NLU transaction using text')
-    parser_text.add_argument('sentence', help='Sentence to understand (enclose in quotes)')
+    # # Text NLU
+    # parser_text = subparsers.add_parser('text', help='Execute NLU transaction using text')
+    # parser_text.add_argument('sentence', help='Sentence to understand (enclose in quotes)')
 
-    # Data Upload
-    parser_data_upload = subparsers.add_parser('data_upload', help='Upload user data for a dynamic list concept')
-    parser_data_upload.add_argument('concept_id', help='Dynamic List concept to associate data with')
-    parser_data_upload.add_argument(
-        nargs='?',
-        dest='concept_data_file',
-        default='dynamic_list.sample.json',
-        help='Data to use for user specific ASR and NLU customization',
-        type=argparse.FileType('r'))
+    # # Data Upload
+    # parser_data_upload = subparsers.add_parser('data_upload', help='Upload user data for a dynamic list concept')
+    # parser_data_upload.add_argument('concept_id', help='Dynamic List concept to associate data with')
+    # parser_data_upload.add_argument(
+    #     nargs='?',
+    #     dest='concept_data_file',
+    #     default='dynamic_list.sample.json',
+    #     help='Data to use for user specific ASR and NLU customization',
+    #     type=argparse.FileType('r'))
 
-    # Data Wipe
-    parser_data_wipe = subparsers.add_parser('data_wipe', help='Wipe user data for all dynamic list concepts')
+    # # Data Wipe
+    # parser_data_wipe = subparsers.add_parser('data_wipe', help='Wipe user data for all dynamic list concepts')
 
     args = parser.parse_args()
 
@@ -663,49 +666,60 @@ def main():
     app_id = credentials['app_id']
     user_id = args.user_id
 
-    if args.command == 'text':
-        loop.run_until_complete(understand_text(
+    with Recorder(loop=loop) as recorder:
+        loop.run_until_complete(understand_audio(
             loop,
             url,
             app_id,
             app_key,
             user_id,
             context_tag=credentials['context_tag'],
-            text_to_understand=args.sentence,
-            language=credentials['language']))
+            language=credentials['language'],
+            recorder=recorder))
 
-    elif args.command == 'audio':
-        with Recorder(loop=loop) as recorder:
-            loop.run_until_complete(understand_audio(
-                loop,
-                url,
-                app_id,
-                app_key,
-                user_id,
-                context_tag=credentials['context_tag'],
-                language=credentials['language'],
-                recorder=recorder))
+    # if args.command == 'text':
+    #     loop.run_until_complete(understand_text(
+    #         loop,
+    #         url,
+    #         app_id,
+    #         app_key,
+    #         user_id,
+    #         context_tag=credentials['context_tag'],
+    #         text_to_understand=args.sentence,
+    #         language=credentials['language']))
 
-    elif args.command == 'data_upload':
-        concept_data = json.load(args.concept_data_file, encoding='utf-8')
-        if not isinstance(concept_data, list):
-            raise ValueError("Concept data must be a list of dicts with 'literal' and 'value'.")
-        loop.run_until_complete(upload_concept_data_for_user(
-            loop,
-            url,
-            app_id,
-            app_key,
-            user_id,
-            concept_id=args.concept_id,
-            concept_data=concept_data))
+    # elif args.command == 'audio':
+    #     with Recorder(loop=loop) as recorder:
+    #         loop.run_until_complete(understand_audio(
+    #             loop,
+    #             url,
+    #             app_id,
+    #             app_key,
+    #             user_id,
+    #             context_tag=credentials['context_tag'],
+    #             language=credentials['language'],
+    #             recorder=recorder))
 
-    elif args.command == 'data_wipe':
-        loop.run_until_complete(wipe_concept_data_for_user(
-            loop,
-            url,
-            app_id,
-            app_key,
-            user_id))
+    # elif args.command == 'data_upload':
+    #     concept_data = json.load(args.concept_data_file, encoding='utf-8')
+    #     if not isinstance(concept_data, list):
+    #         raise ValueError("Concept data must be a list of dicts with 'literal' and 'value'.")
+    #     loop.run_until_complete(upload_concept_data_for_user(
+    #         loop,
+    #         url,
+    #         app_id,
+    #         app_key,
+    #         user_id,
+    #         concept_id=args.concept_id,
+    #         concept_data=concept_data))
+
+    # elif args.command == 'data_wipe':
+    #     loop.run_until_complete(wipe_concept_data_for_user(
+    #         loop,
+    #         url,
+    #         app_id,
+    #         app_key,
+    #         user_id))
 
 
 if __name__ == '__main__':
