@@ -16,8 +16,8 @@ Make sure you are running Python 3.6
 
     ```cd /advice_parser```
 
-4. Star theh python service
-    
+4. Start the python service
+
     ```./run.py```
 
 5. Click the microphone button
