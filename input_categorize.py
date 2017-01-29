@@ -9,21 +9,28 @@ def tokenize(str):
 	words = str.split()
 	return words
 
-def determineCategory(arr, category):
+def determineCategory(arr, categories):
 	count = {"Social Life": 0, "Family": 0, "School": 0, "Relationship": 0, "Political": 0, "Health": 0, "Environment": 0, "Technology": 0, "Self": 0}
+	keywords = {"Social Life": [], "Family": [], "School": [], "Relationship": [], "Political": [], "Health": [], "Environment": [], "Technology": [], "Self": []}
+
+	for cat in categories: 
+		for key in categories[cat]:
+			keywords[cat].append(str(key))
+	
+	for input in arr: 
+		for cat in categories: 
+			keys = difflib.get_close_matches(input, keywords[cat], 1)
+			if (len(keys) > 0):
+				count[cat] += categories[cat][keys[0]]
+
+	return max(count.items(), key=operator.itemgetter(1))[0]
+
+def determineSubCategory(arr, categories, category):
 	keywords = {"Social Life": [], "Family": [], "School": [], "Relationship": [], "Political": [], "Health": [], "Environment": [], "Technology": [], "Self": []}
 
 	for cat in category: 
 		for key in category[cat]:
 			keywords[cat].append(str(key))
-	
-	for input in arr: 
-		for cat in category: 
-			keys = difflib.get_close_matches(input, keywords[cat], 1)
-			if (len(keys) > 0):
-				count[cat] += category[cat][keys[0]]
-
-	return max(count.iteritems(), key=operator.itemgetter(1))[0]
 
 
 
@@ -41,10 +48,11 @@ def determineCategory(arr, category):
 
 def main():
 	with open("categories.json") as data_file: 
-		category = json.load(data_file)
+		categories = json.load(data_file)
 
 	words = tokenize("My family is so bad because I hate my brother")
-	determineCategory(words, category)
+	category = determineCategory(words, categories)
+	print(category)
 
 if __name__ == '__main__':
 	main()
