@@ -1,26 +1,59 @@
-<!DOCTYPE html>
-<html>
-<head>
-	<title>Motivator</title>
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-  	<link rel="stylesheet" href="css/firstpage.css">
-  	<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
-  	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
-  	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
-  	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-  	<script src="src/main.js"></script>
+<!--Copyright © 2016 Nuance Communications, Inc. All rights reserved.-->
+<!--Published by Nuance Communications, Inc.-->
+<!--One Wayside Road, Burlington, Massachusetts 01803, U.S.A.-->
 
+<!DOCTYPE HTML>
+<html lang='en'>
+<head>
+    <meta charset='utf-8'>
+    <title>Nuance Websockets JS Sample</title>
+
+    <!--  LIBRARY DEPS -->
+    
+    <script src="lib/jquery.min.js"></script>
+
+    <link href='styles/firstpage.css' rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=Fira+Sans" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Lobster">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+
+    <!--  WEB SDK DEPS -->
+    <script src='lib/resampler.js'></script>
+    <script src='lib/speex.js'></script>
+    <script src='lib/nuance.js'></script>
+
+  
 </head>
-<body class ="whole">
-	<div class="middle">
-		<div class="title">
-			<p>Motivator</p>
-		</div>
-		<div class="container">
-			<div class="speechbtn">
-				<input type="image" src="img/microphone.png" name="saveForm" id="micButton" />
-			</div>
-		</div>
-	</div>
+<body class="whole">
+    <div style="display:none;">
+        <input id="url" type="text" class="form-control" placeholder="URL" value="wss://ws.dev.nuance.com/?" disabled/>
+        <input id="app_id" type="text" class="form-control" placeholder="AppId"/>
+        <input id="app_key" type="text" class="form-control" placeholder="AppKey"/>
+    </div>
+    <div>
+        <div class="middle">
+            <div class="title">
+                <p>Demotivator</p>
+            </div>
+            <div class='speechbtn'>
+                <canvas id="asr_viz"></canvas>
+                <br/>
+                <input id='asr_go' type='image' class='btn' src="img/microphone.png">
+                    <i class='fa fa-microphone'></i>
+                </input>
+            </div>
+            <div class="output">
+                <p id="jokeOut"></p>
+            </div>
+        </div>
+    </div>
+
+    <!--  APPLICATION -->
+
+    <script src='configuration.js'></script>
+    <script src='app.js'></script>
+
 </body>
 </html>
